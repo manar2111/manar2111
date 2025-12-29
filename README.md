@@ -49,7 +49,7 @@ I’m especially interested in:
 
 ## 🤝 Connect With Me
 
-- 📧 Email: *(يمكن تضيفينه لاحقًا)*
+- 📧 Email:[ manarhamad2111@gmail.com ]
 - 💼 GitHub: [github.com/ManarHamed](https://github.com/)
 
 ---
