@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66652A7E-6D08-45B1-B7BF-24AD9413B60B}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66652A7E-6D08-45B1-B7BF-24AD9413B60B}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66652A7E-6D08-45B1-B7BF-24AD9413B60B}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\frmaddcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66652A7E-6D08-45B1-B7BF-24AD9413B60B}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\frmaddcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListContacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\frmListContacts.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\frmListContacts.cs",
+              "ToolTip": "C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\frmListContacts.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp4\\frmListContacts.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T05:24:16.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddContacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\frmAddContacts.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\frmAddContacts.cs",
+              "ToolTip": "C:\\Users\\Manar\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\frmAddContacts.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp4\\frmAddContacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T05:24:13.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

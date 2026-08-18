@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ContactAccessDataLayar/ContactAccessDataLayar/ContactAccessDataLayar.csproj" Id="54a3abe7-97e7-42a6-859a-29b86b6a3b9b" />
+  <Project Path="../ContactAccessDataLayar/ContactBussinessDataLayar/ContactBussinessDataLayar.csproj" Id="27bd112b-5a76-4889-a6b7-d3cbe3c1dea0" />
+  <Project Path="WindowsFormsApp4/WindowsFormsApp4.csproj" Id="66652a7e-6d08-45b1-b7bf-24ad9413b60b" />
+</Solution>
